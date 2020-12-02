@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: chuchingkai.github.io/sitemap.xml
